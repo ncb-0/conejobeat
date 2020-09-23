@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "Pico CB";
+  src: url("fonts/PicoCB-Ultraleicht.woff2") format("woff2"), url("fonts/PicoCB-Ultraleicht.woff") format("woff"), url("fonts/PicoCB-Ultraleicht.ttf") format("truetype");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Pico CB";
+  src: url("fonts/PicoCB-Extraleicht.woff2") format("woff2"), url("fonts/PicoCB-Extraleicht.woff") format("woff"), url("fonts/PicoCB-Extraleicht.ttf") format("truetype");
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Pico CB";
+  src: url("fonts/PicoCB-Leicht.woff2") format("woff2"), url("fonts/PicoCB-Leicht.woff") format("woff"), url("fonts/PicoCB-Leicht.ttf") format("truetype");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Pico CB";
+  src: url("fonts/PicoCB-Mager.woff2") format("woff2"), url("fonts/PicoCB-Mager.woff") format("woff"), url("fonts/PicoCB-Mager.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Pico CB";
+  src: url("fonts/PicoCB-Buch.woff2") format("woff2"), url("fonts/PicoCB-Buch.woff") format("woff"), url("fonts/PicoCB-Buch.ttf") format("truetype");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Pico CB";
+  src: url("fonts/PicoCB-Normal.woff2") format("woff2"), url("fonts/PicoCB-Normal.woff") format("woff"), url("fonts/PicoCB-Normal.ttf") format("truetype");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Pico CB";
+  src: url("fonts/PicoCB-Halbfett.woff2") format("woff2"), url("fonts/PicoCB-Halbfett.woff") format("woff"), url("fonts/PicoCB-Halbfett.ttf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Pico CB";
+  src: url("fonts/PicoCB-Fett.woff2") format("woff2"), url("fonts/PicoCB-Fett.woff") format("woff"), url("fonts/PicoCB-Fett.ttf") format("truetype");
+  font-weight: 800;
+}
+@font-face {
+  font-family: "Pico CB";
+  src: url("fonts/PicoCB-Schwer.woff2") format("woff2"), url("fonts/PicoCB-Schwer.woff") format("woff"), url("fonts/PicoCB-Schwer.ttf") format("truetype");
+  font-weight: 900;
+}

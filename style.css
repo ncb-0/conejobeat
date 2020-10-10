@@ -7,7 +7,7 @@
 }
 
 *::selection {
-  background: rgba($dk,0.15);
+  background: rgba(0,0,0,0.3);
 }
 
 ::webkit-scrollbar {
@@ -84,9 +84,9 @@ p {
   letter-spacing: 0.3px;
 }
 
-.red {
+/* .red {
   color: #f30;
-}
+} */
 
 audio {
   margin: 5px 0 20px -2px;
@@ -94,14 +94,20 @@ audio {
 
 a {
   text-decoration: none;
-  background: 0;
-  /* opacity: 1; */
-  /* border: 1px dashed #bbb; */
+  /* background: none; */
 }
 
 a:hover {
   background: #000;
   color: #fff;
-  /* border: 1px solid #000; */
-  /* opacity: 0.5; */
+}
+
+.red {
+  color: #f30;
+}
+
+
+a.red:hover {
+  background: #f30;
+  color: #fff;
 }

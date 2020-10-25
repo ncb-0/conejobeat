@@ -106,6 +106,9 @@ a:hover {
   color: #f30;
 }
 
+.blk {
+  background: #000;
+}
 
 a.red:hover {
   background: #f30;

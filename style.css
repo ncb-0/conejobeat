@@ -3,12 +3,11 @@
   padding: 0;
   box-sizing: border-box;
   user-select: none;
-  color: #fff;
-  font-feature-settings: "ss01";
+  color: #555;
 }
 
 *::selection {
-  background: rgba(255,255,255,0.5);
+  background: rgba(0,0,0,0.2);
 }
 
 ::webkit-scrollbar {
@@ -20,7 +19,7 @@ body {
   /* overflow-x: hidden; */
   z-index: 0;
   width: 100vw;
-  background: #bbb;
+  background: #fff;
 }
 
 #nav {
@@ -51,6 +50,11 @@ body {
   margin: 36px auto 5px;
   width: calc(100% - 10px);
   max-width: 600px;
+}
+
+#main_flux {
+  margin-top: 18px;
+  padding: 3px 10px;
 }
 
 #player {
@@ -109,6 +113,26 @@ audio {
   margin-bottom: 2px;
 }
 
+.flux {
+  font-family: "flux";
+  letter-spacing: normal;
+  text-transform: lowercase;
+  /* -webkit-font-smoothing: none; */
+}
+
+h1.flux {
+  font: 200 10vmin/1 "flux";
+}
+
+h2.flux {
+  font: 300 5vmin/1 "flux";
+}
+
+h3.flux, h4.flux, p.flux {
+  font: 400 15px/1 "flux";
+  letter-spacing: 1px;
+}
+
 h1 {
   font: 200 55px/.8 "PicoA", sans-serif;
   transform: translateX(-4.35px);
@@ -147,8 +171,8 @@ a {
 }
 
 a:hover {
-  background: #fff;
-  color: #bbb;
+  background: #555;
+  color: #fff;
 }
 
 a.red:hover {

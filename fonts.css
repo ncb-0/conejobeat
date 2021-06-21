@@ -46,46 +46,8 @@
 /* flux */
 @font-face {
   font-family: "flux";
-  src: url("/fonts/flux/flux-Hairline.woff2") format("woff2"), url("/fonts/flux/flux-Hairline.woff") format("woff"), url("/fonts/flux/flux-Hairline.ttf") format("truetype");
-  font-weight: 100;
-}
-@font-face {
-  font-family: "flux";
-  src: url("/fonts/flux/flux-Thin.woff2") format("woff2"), url("/fonts/flux/flux-Thin.woff") format("woff"), url("/fonts/flux/flux-Thin.ttf") format("truetype");
-  font-weight: 200;
-}
-@font-face {
-  font-family: "flux";
-  src: url("/fonts/flux/flux-Extralight.woff2") format("woff2"), url("/fonts/flux/flux-Extralight.woff") format("woff"), url("/fonts/flux/flux-Extralight.ttf") format("truetype");
-  font-weight: 300;
-}
-@font-face {
-  font-family: "flux";
-  src: url("/fonts/flux/flux-Light.woff2") format("woff2"), url("/fonts/flux/flux-Light.woff") format("woff"), url("/fonts/flux/flux-Light.ttf") format("truetype");
-  font-weight: 400;
-}
-@font-face {
-  font-family: "flux";
-  src: url("/fonts/flux/flux-Regular.woff2") format("woff2"), url("/fonts/flux/flux-Regular.woff") format("woff"), url("/fonts/flux/flux-Regular.ttf") format("truetype");
-  font-weight: 500;
-}
-@font-face {
-  font-family: "flux";
-  src: url("/fonts/flux/flux-Medium.woff2") format("woff2"), url("/fonts/flux/flux-Medium.woff") format("woff"), url("/fonts/flux/flux-Medium.ttf") format("truetype");
-  font-weight: 600;
-}
-@font-face {
-  font-family: "flux";
-  src: url("/fonts/flux/flux-Semibold.woff2") format("woff2"), url("/fonts/flux/flux-Semibold.woff") format("woff"), url("/fonts/flux/flux-Semibold.ttf") format("truetype");
-  font-weight: 700;
-}
-@font-face {
-  font-family: "flux";
-  src: url("/fonts/flux/flux-Bold.woff2") format("woff2"), url("/fonts/flux/flux-Bold.woff") format("woff"), url("/fonts/flux/flux-Bold.ttf") format("truetype");
-  font-weight: 800;
-}
-@font-face {
-  font-family: "flux";
-  src: url("/fonts/flux/flux-Extrabold.woff2") format("woff2"), url("/fonts/flux/flux-Extrabold.woff") format("woff"), url("/fonts/flux/flux-Extrabold.ttf") format("truetype");
-  font-weight: 900;
+  src: url("/fonts/flux/fluxGX.woff2") format("woff2 supports variations"), url("/fonts/flux/fluxGX.woff2") format("woff2-variations");
+  font-weight: 100 900;
+  font-stretch: 100 500%;
+  font-style: normal;
 }

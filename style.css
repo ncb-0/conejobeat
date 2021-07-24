@@ -3,11 +3,12 @@
   padding: 0;
   box-sizing: border-box;
   user-select: none;
-  color: #ffffff;
+  color: #bbbbbb;
 }
 
 *::selection {
   background: rgba(0,0,0,0.2);
+  color: #fff;
 }
 
 ::webkit-scrollbar {
@@ -19,7 +20,7 @@ body {
   /* overflow-x: hidden; */
   z-index: 0;
   width: 100vw;
-  background: #444;
+  background: #fff;
 }
 
 #nav {
@@ -63,7 +64,7 @@ body {
 #player {
   margin: 18px 0 0;
   padding: 8px 10px 10px;
-  background: #444;
+  background: #fff;
   border-radius: 4px;
 }
 
@@ -101,7 +102,7 @@ audio {
 
 #gallery a:hover {
   color: #bbb;
-  background: #444;
+  background: #fff;
 }
 
 #gallery div:hover img {
@@ -110,7 +111,7 @@ audio {
 }
 
 #gallery div {
-  /* background: #444; */
+  /* background: #fff; */
   text-align: center;
 }
 
@@ -130,22 +131,37 @@ audio {
   /* -webkit-font-smoothing: none; */
 }
 
+h1.flux.big {
+  font: 900 200px/0.6 "flux";
+  font-stretch: 300%;
+  transform: translateX(-7px);
+  margin-bottom: 0;
+}
+
 h1.flux {
-  font: 500 200px/0.8 "flux";
-  font-stretch: 100%;
-  transform: translateX(-10px);
+  font: 600 100px/0.8 "flux";
+  font-stretch: 300%;
+  transform: translateX(-5px);
   margin-bottom: 0;
 }
 
 h2.flux {
-  font: 170 50px/0.8 "flux";
+  font: 650 50px/0.8 "flux";
   font-stretch: 400%;
-  transform: translateX(-4px);
+  transform: translateX(-3px);
   margin-bottom: 0;
 }
 
-h3.flux, h4.flux, p.flux {
-  font: 350 15px/1 "flux";
+h3.flux {
+  font: 700 25px/0.8 "flux";
+  font-stretch: 400%;
+  transform: translateX(-1.25px);
+  letter-spacing: 1px;
+  margin-bottom: 0;
+}
+
+h4.flux, p.flux {
+  font: 450 15px/1 "flux";
   letter-spacing: 1px;
   font-stretch: 300%;
   
@@ -189,13 +205,13 @@ a {
 }
 
 a:hover {
-  background: #ffffff;
-  color: #444;
+  background: #bbbbbb;
+  color: #fff;
 }
 
 a.red:hover {
   background: #f30;
-  color: #444;
+  color: #fff;
 }
 
 @media (max-width: 500px) {

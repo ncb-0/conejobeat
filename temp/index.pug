@@ -5,9 +5,35 @@ block content
   //-   h1.flux love: #[span.red ??%]
   //-   h2.flux awaiting user input...
   //-   h3.flux <br> conejobeat_flux • summer 2021
-  #main_flux 
-    h1.flux.big 99%!
-    h1.flux conejobeat_flux
-    h2.flux 2021.07.31 • doors: 8pm est
-    h3.flux(style="margin-bottom:50px") djs: xi-n, deuveir, cavi, nanoray, doctor, nezu.
-    h4.flux await 07.31 for audio stream + slurl. <br> fwd complaints: #[a(href="http://twitter.com/cnjoisland") @cnjoisland.] <br> conejo committee 2021.
+  #main
+    //- h1.flux.big 99%!
+    //- h1.flux conejobeat_flux
+    //- h2.flux 2021.07.31 • doors: 8pm est
+    //- h3.flux(style="margin-bottom:50px") djs: xi-n, deuveir, cavi, nanoray, doctor, nezu.
+    h2.flux(style="margin-bottom:50px") conejobeat_flux
+    #columns(style="margin-bottom:50px") 
+      #left
+        h3.flux 8:00 
+        h3.flux 8:15
+        h3.flux 8:45
+        h3.flux 9:05
+        h3.flux 9:55
+        h3.flux 10:25
+        h3.flux 10:45
+      #right
+        h3.flux doors
+        h3.flux xi-n
+        h3.flux deuveir
+        h3.flux cavi
+        h3.flux nanoray
+        h3.flux doctor
+        h3.flux nezu
+
+    div
+      h3.flux(style="margin-bottom:20px")  #[a(href="http://maps.secondlife.com/secondlife/Lendrum/176/134/233" target="_blank") attend inworld...]
+      h3.flux stream:
+      <audio id="stream" controls preload="none" autoplay style="width: 250px;">
+        <source src="http://149.56.234.136:8190/;" type="audio/mpeg">
+      </audio>
+      
+    h4.flux fwd complaints: #[a(href="http://twitter.com/cnjoisland") @cnjoisland.] <br> conejo committee 2021.

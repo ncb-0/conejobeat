@@ -48,17 +48,23 @@ body {
 
 #main {
   /* position: absolute; */
-  margin: 36px 6px 6px;
+  margin: 36px auto;
   width: calc(100% - 12px);
   max-width: 500px;
 }
 
 #main_flux {
-  /* margin-top: 24px; */
-  padding: 4px 10px;
+  /* position: absolute; */
+  margin: 36px 6px 6px;
+  width: calc(100% - 12px);
+  /* max-width: 500px; */
+}
+
+#main_centre {
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 #player {
@@ -109,10 +115,10 @@ audio {
   background: #fff;
 }
 
-#gallery div:hover img {
+/* #gallery div:hover img {
   filter: saturate(1) opacity(1);
   transition: 0.05s ease filter;
-}
+} */
 
 #gallery div {
   /* background: #fff; */
@@ -124,8 +130,8 @@ audio {
   width: 100%;
   /* box-shadow: 0 8px 24px rgba(255,255,255,0.2); */
   margin-bottom: 2px;
-  filter: saturate(0) opacity(0.2);
-  transition: 0.2s ease filter;
+  /* filter: saturate(0) opacity(0.2); */
+  /* transition: 0.2s ease filter; */
 }
 
 .flux {
@@ -200,7 +206,7 @@ p {
 }
 
 .red {
-  color: #f30;
+  color: #f00;
 }
 
 a {
@@ -214,7 +220,7 @@ a:hover {
 }
 
 a.red:hover {
-  background: #f30;
+  background: #f00;
   color: #fff;
 }
 

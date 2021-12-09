@@ -1,8 +1,26 @@
 extends main.pug
 
 block content 
-  #main_centre
-    img.holylogo(src="weblogo.svg" style="width:90vmin; margin-bottom:24px")
-    //- h1.holy(style="text-align:center; margin-bottom:12px") HOLY CONEJOBEAT
-    h2.holy(style="text-align:center; margin-bottom:24px") 2021•12•11
-    //- p.holy(style="text-align:center") <i>all of</i> CONEJO <i> was holy</i><br><i>all of</i> CONEJO <i> was smiling</i><br><i>and heaven was blushing!</i>
+  #main(style="text-align:center")
+    img.holylogo(src="logo2.svg")
+    img.holysets(src="setlist.svg")
+    h4.holy(style="margin-bottom:24px") 2021•12•11 | all times est | stream & slurl on day of
+    //- | #[a(href="http://maps.secondlife.com/secondlife/Lendrum/141/167/317") attend in-world?] | stream:
+
+    //- #player
+      //- h3.holy(style="margin-bottom:4px;") stream:
+      <audio id="stream" controls preload="none" style="width: 100%;">
+        <source src="http://149.56.234.136:8190/;" type="audio/mpeg">
+      </audio>
+      //- h4.holy #[a(href="http://149.56.234.136:8190/;") (alt link...)]
+
+    <hr>
+
+    #scripturelinks 
+      img(src="svg/red.svg")
+      img(src="svg/pink.svg")
+      img(src="svg/green.svg")
+      img(src="svg/blue.svg")
+
+    
+    img.wafapainting(src="wafapainting.png")

@@ -49,7 +49,14 @@ body {
 #main {
   /* position: absolute; */
   margin: 36px auto;
-  width: calc(100% - 12px);
+  width: calc(100% - 24px);
+  /* max-width: 500px; */
+}
+
+#comps {
+  /* position: absolute; */
+  margin: 36px auto;
+  width: calc(100% - 24px);
   max-width: 500px;
 }
 
@@ -62,20 +69,21 @@ body {
 
 #main_centre {
   position: absolute;
+  margin: 0 auto;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
 #player {
-  margin: 18px 0 0;
-  padding: 8px 10px 10px;
-  background: #fff;
-  border-radius: 4px;
+  position: relative;
+  /* border: solid 1px black; */
+  max-width: 350px;
+  margin: 0 auto;
 }
 
 audio {
-  margin: 4px 0 24px -2px;
+  /* margin: 4px 0 4px -2px; */
   width: 100%;
 }
 
@@ -180,10 +188,58 @@ h4.flux, p.flux {
 
 /* HOLY CONEJOBEAT FONT STYLES */
 
+img.holylogo {
+  display: block;
+  margin: 0 auto 2vh;
+  /* text-align: center; */
+  width: 100%;
+  max-width: 1000px;
+}
+
+img.holysets {
+  display: block;
+  margin: 0 auto 3vh;
+  /* text-align: center; */
+  width: 100%;
+  max-width: 700px;
+}
+
+img.wafapainting {
+  display: block;
+  margin: 0 auto 4vw;
+  width: 100%;
+  max-width: 500px;
+  border: 3px solid #f00;
+}
+
+hr {
+  margin: 48px auto 48px;
+  /* border: 1px solid rgba(0,0,0,0.2); */
+  border: none;
+  max-width: 200px;
+}
+
+#scripturelinks {
+  margin: 0 auto 24px;
+  width: 100%;
+  max-width: 500px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+
+#scripturelinks img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 128px;
+}
+
 h1.holy {
   font: 100 200px/.74 "Times Now", serif;
   letter-spacing: -5px;
   transform: scaleX(0.5);
+  transform-origin: center;
   text-shadow: 0 0 10px rgba(0,0,0,0.8);
 }
 
@@ -191,7 +247,6 @@ h2.holy {
   font: 200 60px/.9 "Times Now", serif;
   transform: scaleX(0.5);
   /* margin-bottom: 5px; */
-  text-transform: uppercase;
   text-shadow: 0 0 8px rgba(0,0,0,0.6);
 }
 
@@ -199,7 +254,6 @@ h3.holy {
   font: 200 40px/.9 "Times Now", serif;
   transform: scaleX(0.7);
   /* margin-bottom: 5px; */
-  text-transform: uppercase;
   text-shadow: 0 0 7px rgba(0,0,0,0.6);
 }
 

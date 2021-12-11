@@ -81,11 +81,11 @@ body {
   position: relative;
   /* border: solid 1px black; */
   max-width: 350px;
-  margin: 0 auto;
+  margin: 0 auto 24px;
 }
 
 audio {
-  /* margin: 4px 0 4px -2px; */
+  margin: 0 0 0 0;
   width: 100%;
 }
 

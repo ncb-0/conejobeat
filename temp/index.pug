@@ -4,18 +4,24 @@ block content
   #main(style="text-align:center")
     img.holylogo(src="logo2.svg")
     img.holysets(src="setlist.svg")
-    h4.holy(style="margin-bottom:24px") 2021•12•11 | all times est | stream & slurl on day of
-    //- | #[a(href="http://maps.secondlife.com/secondlife/Lendrum/141/167/317") attend in-world?] | stream:
+    h4.holy(style="margin-bottom:24px") 2021•12•11 | all times est | #[a(href="http://maps.secondlife.com/secondlife/Lendrum/141/167/317") click me to attend]
 
-    //- #player
-      //- h3.holy(style="margin-bottom:4px;") stream:
+    #player
+      h3.holy(style="margin-bottom:4px;") audio stream:
       <audio id="stream" controls preload="none" style="width: 100%;">
         <source src="http://149.56.234.136:8190/;" type="audio/mpeg">
       </audio>
-      //- h4.holy #[a(href="http://149.56.234.136:8190/;") (alt link...)]
+
+    <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+    
+    #stream
+      h3.holy(style="margin-bottom:4px;") video stream:
+      .embed-container
+        <iframe src='https://www.youtube.com/embed/J4pGw7_Rn7M' frameborder='0' allowfullscreen></iframe>
+    
 
     <hr>
-
+      
     #scripturelinks 
       img(src="svg/red.svg")
       img(src="svg/pink.svg")

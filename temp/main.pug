@@ -1,8 +1,8 @@
 html
   head
-    title 100%
-    link(href="style.css" rel="stylesheet")
-    link(href="fonts.css" rel="stylesheet")
+    title conejobeat
+    link(href="style.css?v=10" rel="stylesheet")
+    link(href="fonts.css?v=10" rel="stylesheet")
     meta(name="viewport" content="width=device-width, initial-scale=1")
     meta(charset="utf-8")
     //- icons
@@ -26,11 +26,14 @@ html
   body
     #nav
       #navleft
-        h4.holy #[a(href="index.html") conejobeat.com]
-      #navcenter
-        h4.holy.desktop #[a(href="comps.html") compilations]
-        h4.holy.mobile #[a(href="comps.html") comps]
+        h4.desktop #[a(href="index.html") conejobeat.com]
+        h4.mobile #[a(href="index.html") conejobeat]
       #navright
-        h4.holy #[a(href="http://casaconejo.neocities.org" target="_blank") casa conejo]
+        h4.desktop #[a(href="comps.html") compilations]
+        h4.mobile #[a(href="comps.html") comps]
+      #navright
+        h4.desktop #[a(href="http://casaconejo.neocities.org" target="_blank") casa conejo]
+        h4.mobile #[a(href="http://casaconejo.neocities.org" target="_blank") ???]
     block content
+    block scripts
         

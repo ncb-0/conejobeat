@@ -1,4 +1,12 @@
 @font-face {
+  font-family: "sharp";
+  src: url("/fonts/sharp/HelveticaSharp.woff2") format("woff2"),
+       url("/fonts/sharp/HelveticaSharp.ttf")   format("truetype");
+  font-weight: 400;
+}
+
+/* old */
+@font-face {
   font-family: "PicoA";
   src: url("/fonts/pico/PicoA-Hairline.woff2") format("woff2"), url("/fonts/pico/PicoA-Hairline.woff") format("woff"), url("/fonts/pico/PicoA-Hairline.ttf") format("truetype");
   font-weight: 100;
@@ -43,7 +51,6 @@
   src: url("/fonts/pico/PicoA-Black.woff2") format("woff2"), url("/fonts/pico/PicoA-Black.woff") format("woff"), url("/fonts/pico/PicoA-Black.ttf") format("truetype");
   font-weight: 900;
 }
-/* flux */
 @font-face {
   font-family: "flux";
   src: url("/fonts/flux/fluxGX.woff2") format("woff2 supports variations"), url("/fonts/flux/fluxGX.woff2") format("woff2-variations");
@@ -51,7 +58,6 @@
   font-stretch: 100 500%;
   font-style: normal;
 }
-/* times */
 @font-face {
   font-family: "Times Now";
   src: url("/fonts/times/TimesNow-ExtraLight.woff2") format("woff2"), url("/fonts/times/TimesNow-ExtraLight.ttf") format("truetype");

@@ -1,19 +1,70 @@
 extends main.pug
 
 block content
-  #comps
-    #header
-      h3.holy PAST COMPILATIONS
+  #main
+    h2(style="margin-bottom:1em") compilations
     #gallery
-      div
-        a(href="https://drive.google.com/drive/folders/1566hh1U7R7IMoZ_UH7eLiqn5xEgiHQn1?usp=sharing") #[img(src="img/holycover.png")] #[h4.holy HOLY CONEJOBEAT]
-      div
-        a(href="https://drive.google.com/drive/folders/1zMVM6I9gjXg-mcCr_PjORyK-etskVPnN?usp=sharing") #[img(src="img/fluxcover.png")] #[h4.holy conejobeat_flux]
-      div
-        a(href="https://drive.google.com/drive/folders/1oaA6qT7OzrJ_MFra3vWNaudx7Cusuzy-?usp=sharing") #[img(src="img/lucky.png")] #[h4.holy LUCKY CONEJOBEAT]
-      div
-        a(href="https://drive.google.com/drive/folders/1XXZQtFo-Qo2edbu6stAEVD6EPT47HQw4?usp=sharing") #[img(src="img/season1.png")] #[h4.holy conejoBeat season 1]
-      div
-        a(href="https://drive.google.com/drive/folders/1vl9Tf4FiMn5M6h6pubSHl72SXa2GbuAQ?usp=sharing") #[img(src="img/plus.png")] #[h4.holy conejoBeat+]
-      div
-        a(href="https://drive.google.com/drive/folders/1HoJ6oIJrbVS-q75femVrTzdOIGfE2nb3?usp=sharing") #[img(src="img/eggball.png")] #[h4.holy Conejo Golden Egg Ball]
+      .galleryitem
+        div
+          img(src="img/holycover.png")
+        div
+          h4 HOLY CONEJOBEAT
+          p 2021&nbsp;12&nbsp;11
+          p 11 sets
+          p ~6 hours
+          .gallerylink
+            h4 #[a(href="https://drive.google.com/drive/folders/1566hh1U7R7IMoZ_UH7eLiqn5xEgiHQn1?usp=sharing" target="_blank") download]
+      .galleryitem
+        div
+          img(src="img/fluxcover.png")
+        div
+          h4 conejobeat_flux
+          p 2021&nbsp;07&nbsp;31
+          p 6 sets
+          p ~3 hours
+          .gallerylink
+            h4 #[a(href="https://drive.google.com/drive/folders/1zMVM6I9gjXg-mcCr_PjORyK-etskVPnN?usp=sharing" target="_blank") download]
+
+      .galleryitem
+        div
+          img(src="img/lucky.png")
+        div
+          h4 LUCKY CONEJOBEAT
+          p 2021&nbsp;02&nbsp;26
+          p 8 sets + etc audio
+          p ~6 hours
+          .gallerylink
+            h4 #[a(href="https://drive.google.com/drive/folders/1oaA6qT7OzrJ_MFra3vWNaudx7Cusuzy-" target="_blank") download]
+      
+      .galleryitem
+        div
+          img(src="img/season1.png")
+        div
+          h4 conejoBeat season 1
+          p 2021 autumn
+          p 3 x 2 sets
+          p ~4 hours
+          .gallerylink
+            h4 #[a(href="https://drive.google.com/drive/folders/1XXZQtFo-Qo2edbu6stAEVD6EPT47HQw4" target="_blank") download]
+      
+      .galleryitem
+        div
+          img(src="img/plus.png")
+        div
+          h4 conejoBeat+
+          p 2020 06 27
+          p 5&half; sets
+          p ~4.5 hours
+          .gallerylink
+            h4 #[a(href="https://drive.google.com/drive/folders/1vl9Tf4FiMn5M6h6pubSHl72SXa2GbuAQ?usp=sharing" target="_blank") download]
+      
+      .galleryitem
+        div
+          a(href="https://drive.google.com/drive/folders/1HoJ6oIJrbVS-q75femVrTzdOIGfE2nb3?usp=sharing") #[img(src="img/eggball.png")]
+        div
+          h4 golden egg ball
+          p 2020 05 02
+          p 1 nezu set
+          p ~2 hours
+          .gallerylink
+            h4 #[a(href="https://drive.google.com/drive/folders/1HoJ6oIJrbVS-q75femVrTzdOIGfE2nb3?usp=sharing" target="_blank") download]

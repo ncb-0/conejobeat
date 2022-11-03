@@ -1,5 +1,5 @@
 setInterval (() => {
-  let myTags = ["#www", "#wtf", "#wafa", "#virtualrave", "#virtual_rave", "#virtual", "#viby", "#vibez", "#vibe", "#urlfest", "#url_fest", "#url", "#tunes", "#trance", "#techno", "#stream", "#slurl", "#sl", "#shoutcast", "#sharp", "#secondlife", "#second_life", "#returnal", "#remix", "#rave", "#prim", "#postnightcore", "#post_nightcore", "#plur", "#party", "#online", "#omg", "#numpy", "#notdead", "#no1_dj_song", "#nightcore", "#nezu", "#nerdy", "#music", "#mousi", "#metaverse", "#media", "#mc", "#lovely", "#love", "#lit", "#kawaii", "#jazz", "#hype", "#http", "#house", "#gabber", "#funk", "#foxy", "#fluffy", "#fancy", "#exclusive", "#etc", "#dj", "#dekbass", "#dek_bass", "#dek", "#cute", "#cpu", "#cool", "#conejoisland", "#conejobeat", "#conejo_island", "#conejo", "#comeback", "#chunchy", "#blessed", "#black_key", "#bassboost", "#bass_boost", "#bass", "#animal", "#angelic", "#angel", "#54%", "#classic", "#chunch", "#awww", "#carrot", "#brb"];
+  let myTags = ["#www", "#wtf", "#wafa", "#virtualrave", "#virtual", "#viby", "#vibez", "#vibe", "#urlfest", "#url", "#tunes", "#trance", "#techno", "#stream", "#slurl", "#sl", "#shoutcast", "#sharp", "#secondlife", "#returnal", "#remix", "#rave", "#prim", "#postnightcore", "#plur", "#party", "#online", "#omg", "#numpy", "#notdead", "#nightcore", "#nezu", "#nerdy", "#music", "#mousi", "#metaverse", "#media", "#mc", "#lovely", "#love", "#lit", "#kawaii", "#jazz", "#hype", "#http", "#house", "#gabber", "#funk", "#foxy", "#fluffy", "#fancy", "#exclusive", "#etc", "#dj", "#dekbass", "#dek", "#cute", "#cpu", "#cool", "#conejoisland", "#conejobeat", "#conejo", "#comeback", "#chunchy", "#blessed", "#bassboost", "#bass", "#animal", "#angelic", "#angel", "#54%", "#classic", "#chunch", "#awww", "#carrot", "#brb", "#avatar", "#rez", "#queso", "#ayyquerico", "#yaye", "#1080p", "#lowfps"];
 
   let shuffledTags = myTags.sort(() => {
     return 0.5 - Math.random();
@@ -8,4 +8,4 @@ setInterval (() => {
   console.log(shuffledTags);
 
   document.querySelector("#tags h1").innerHTML = shuffledTags.join(" ");
-}, 250);
+}, 500);

@@ -204,6 +204,11 @@ sup {
   margin-bottom: 1em;
 }
 
+hr {
+  border: solid 1px var(--a);
+  margin: 1em 0;
+}
+
 h1 {
   font: 400 100px/.8 "sharp", sans-serif;
   letter-spacing: -2px;
@@ -276,3 +281,10 @@ a:hover {
     display: none;
   }
 }
+
+/* @media (max-height: 550px) and (max-width: 500px) {
+  #bottom {
+    position: relative;
+    margin: 2em 0 1em;
+  }
+} */

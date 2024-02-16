@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="953.98682"
+   height="146.87016"
+   viewBox="0 0 953.98681 146.87017"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="golden-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#ffffff"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.69296465"
+     inkscape:cx="557.02697"
+     inkscape:cy="13.709213"
+     inkscape:current-layer="svg1"
+     showborder="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="-35.831841"
+       originy="-437.83807"
+       spacingx="16"
+       spacingy="16"
+       empcolor="#000000"
+       empopacity="0.10196078"
+       color="#000000"
+       opacity="0.02352941"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false"
+       snapvisiblegridlinesonly="true" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="953.98682"
+       height="146.87016"
+       id="page5"
+       margin="0 0 0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient12"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop12" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop13" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14">
+      <g
+         inkscape:label="Clip"
+         id="use14">
+        <g
+           id="g17"
+           style="stroke:url(#linearGradient18);stroke-width:5;stroke-dasharray:none"
+           transform="matrix(1,0,0,-1,0.89192297,639.51258)">
+          <path
+             id="path15"
+             style="fill:#a9a9a9;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:normal"
+             d="m 89.684514,225.40525 a 60.41992,92.768265 0 0 0 -60.41947,92.76758 60.41992,92.768265 0 0 0 60.41947,92.76758 60.41992,92.768265 0 0 0 60.420746,-92.76758 60.41992,92.768265 0 0 0 -60.420746,-92.76758 z m 0,51.2793 a 27.021531,41.488644 0 0 1 27.021296,41.48828 27.021531,41.488644 0 0 1 -27.021296,41.48828 27.021531,41.488644 0 0 1 -27.02129,-41.48828 27.021531,41.488644 0 0 1 27.02129,-41.48828 z" />
+          <path
+             id="path16"
+             style="fill:#a9a9a9;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:normal"
+             d="m 133.96483,387.76773 a 60.41992,92.768265 0 0 0 -60.419466,92.76758 60.41992,92.768265 0 0 0 60.419466,92.76758 60.41992,92.768265 0 0 0 60.42075,-92.76758 60.41992,92.768265 0 0 0 -60.42075,-92.76758 z m 0,51.2793 a 27.021531,41.488644 0 0 1 27.0213,41.48828 27.021531,41.488644 0 0 1 -27.0213,41.48828 27.021531,41.488644 0 0 1 -27.02129,-41.48828 27.021531,41.488644 0 0 1 27.02129,-41.48828 z" />
+          <path
+             id="path17"
+             style="fill:#a9a9a9;stroke:none;stroke-opacity:1;paint-order:normal"
+             transform="rotate(-24.929783)"
+             d="M -139.18089,392.76529 H 68.233932 V 422.1092 H -139.18089 Z" />
+        </g>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12"
+       id="linearGradient18"
+       gradientUnits="userSpaceOnUse"
+       x1="29.265043"
+       y1="399.35406"
+       x2="166.95547"
+       y2="377.54965" />
+    <linearGradient
+       id="swatch412"
+       inkscape:swatch="solid"
+       gradientTransform="matrix(4.7513167,0,0,7.3222647,8465.5653,-3621.2669)">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop412" />
+    </linearGradient>
+    <linearGradient
+       id="swatch20"
+       gradientTransform="matrix(1.7035697,3.0117916,-3.4364247,1.4930626,3908.5692,6760.1897)"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#3b7db2;stop-opacity:1;"
+         offset="0"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       id="swatch14"
+       inkscape:swatch="solid"
+       gradientTransform="matrix(10.364826,3.7532635,-4.7081746,8.262635,50749.254,-1965.4408)">
+      <stop
+         style="stop-color:#c72223;stop-opacity:1;"
+         offset="0"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       id="swatch1"
+       gradientTransform="matrix(0.35271606,0.12603794,-0.16446617,0.28482069,-2080.3438,-318.3415)"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#f9ed44;stop-opacity:1;"
+         offset="0"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient83"
+       id="linearGradient29"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5642364,0,0,0.38997965,0.64491077,2.3668319)"
+       x1="-524.11615"
+       y1="1507.9469"
+       x2="-523.97131"
+       y2="1403.2389" />
+    <linearGradient
+       id="linearGradient83"
+       gradientTransform="matrix(0.43587807,0,0,0.44743074,-377.38953,254.26726)">
+      <stop
+         style="stop-color:#f9ed44;stop-opacity:1;"
+         offset="0.55310553"
+         id="stop82" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop83" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter94"
+       x="-0.0043032183"
+       y="-0.032604977"
+       width="1.0086064"
+       height="1.06521">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.4042466"
+         id="feGaussianBlur94" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch1"
+       id="linearGradient7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(2.6629403,0.37552476)"
+       x1="-621.96106"
+       y1="1390.4492"
+       x2="-405.73364"
+       y2="1390.4492" />
+  </defs>
+  <g
+     id="g26"
+     transform="matrix(1.6460241,0,0,1.6900229,2728.4967,-881.05489)"
+     style="display:inline;stroke-width:5.99564;stroke-dasharray:none"
+     inkscape:export-filename="logo.png"
+     inkscape:export-xdpi="207.41"
+     inkscape:export-ydpi="207.41">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:77.9433px;line-height:1;font-family:'BIZ UDPMincho';-inkscape-font-specification:'BIZ UDPMincho, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:20.9847px;word-spacing:0px;text-orientation:upright;text-anchor:middle;display:inline;fill:url(#swatch14);fill-opacity:1;stroke:url(#linearGradient7);stroke-width:5.99564;stroke-miterlimit:5;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="-1368.9728"
+       y="592.39484"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         x="-1358.4805"
+         y="592.39484"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:77.9433px;font-family:'BIZ UDPMincho';-inkscape-font-specification:'BIZ UDPMincho, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:20.9847px;fill:url(#swatch14);stroke:url(#linearGradient7);stroke-width:5.99564;stroke-dasharray:none">黃金兔子節奏</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:71.9477px;line-height:1;font-family:'Job Clarendon';-inkscape-font-specification:'Job Clarendon, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-feature-settings:'ss02', 'ss06';text-align:center;letter-spacing:0px;word-spacing:8.99346px;text-orientation:upright;text-anchor:middle;display:inline;opacity:1;mix-blend-mode:normal;fill:url(#linearGradient29);fill-opacity:1;stroke:url(#swatch20);stroke-width:7.19477;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="-1366.8419"
+       y="590.43555"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         x="-1366.8419"
+         y="590.43555"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:71.9477px;font-family:'Job Clarendon';-inkscape-font-specification:'Job Clarendon, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-feature-settings:'ss02', 'ss06';word-spacing:8.99346px;fill:url(#linearGradient29);fill-opacity:1;stroke:url(#swatch20);stroke-width:7.19477;stroke-dasharray:none">Golden ConejoBeat!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:77.9433px;line-height:1;font-family:'BIZ UDPMincho';-inkscape-font-specification:'BIZ UDPMincho, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:20.9847px;word-spacing:0px;text-orientation:upright;text-anchor:middle;display:none;opacity:1;mix-blend-mode:darken;fill:url(#swatch14);fill-opacity:1;stroke:none;stroke-width:5.99564;stroke-miterlimit:5;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter94)"
+       x="-1368.9728"
+       y="592.39484"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         x="0"
+         y="0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:77.9433px;font-family:'BIZ UDPMincho';-inkscape-font-specification:'BIZ UDPMincho, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:20.9847px;fill:url(#swatch14);stroke:none;stroke-width:5.99564;stroke-dasharray:none">黃金兔子節奏</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.7922px;line-height:1;font-family:Helvetica;-inkscape-font-specification:Helvetica;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:upright;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;display:none;opacity:1;fill:url(#swatch14);fill-opacity:1;stroke:url(#swatch412);stroke-width:2.39826;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="-1075.8149"
+       y="614.88727"
+       id="text25"
+       transform="scale(1.013277,0.98689694)"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         x="0"
+         y="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.7922px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:end;letter-spacing:0px;text-anchor:end;fill:url(#swatch14);stroke:url(#swatch412);stroke-width:2.39826;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1">dress code: gold/blue/dragon/rainbow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.7922px;line-height:1;font-family:Helvetica;-inkscape-font-specification:Helvetica;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:upright;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;display:none;opacity:1;fill:url(#swatch14);fill-opacity:1;stroke:url(#swatch412);stroke-width:2.39826;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="-1625.0156"
+       y="614.90485"
+       id="text26"
+       transform="scale(1.013277,0.98689694)"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         x="0"
+         y="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.7922px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;letter-spacing:0px;text-anchor:start;fill:url(#swatch14);stroke:url(#swatch412);stroke-width:2.39826;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1">slurl &amp; audio stream: conejobeat.com (day of)</tspan></text>
+  </g>
+</svg>

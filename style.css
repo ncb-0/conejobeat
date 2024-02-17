@@ -69,7 +69,8 @@ body {
   padding: 36px 8px 12px;
   /* padding: 24px 8px; */
   width: 100%;
-  /* max-width: 500px; */
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 #tags {
@@ -129,6 +130,7 @@ body {
 audio {
   margin: 0 0 0 0;
   width: 100%;
+  max-width: 400px;
 }
 
 #stream {
@@ -208,18 +210,26 @@ sup {
   margin-bottom: 1em;
 }
 
+.block3 {
+  margin-bottom: 2em;
+}
+
+.block4 {
+  margin-bottom: 3em;
+}
+
 hr {
   border: dashed 1px var(--txt);
   margin: 1em 0;
 }
 
 h1 {
-  font: 400 100px/0.8 "sharp", sans-serif;
+  font: 400 100px/0.9 "sharp", sans-serif;
   letter-spacing: -2px;
 }
 
 h2 {
-  font: 400 50px/0.8 "sharp", sans-serif;
+  font: 400 50px/0.9 "sharp", sans-serif;
   /* letter-spacing: -2.2px; */
 }
 
